@@ -1,0 +1,78 @@
+This is an extension of the Recipe App created in Part 1. In this part, the application allows users to enter multiple recipes, each with ingredients and steps, along with nutritional information. The application also calculates and displays the total calories of each recipe and alerts the user if the total calories exceed 300.
+
+## Table of Contents
+- [Installation]
+- [Usage]
+- [Features]
+- [Non-functional Requirements]
+- [Unit Testing]
+- [Contributing]
+- [License]
+- [Contact] 
+
+## Installation
+
+To get started with the Recipe App, follow these steps:
+
+1. **Clone the repository**
+   ```sh
+   git clone https:https://github.com/AsemahleNonkwelo/Recipe-App.git 
+
+   Navigate to the project directory:
+ recipe-app
+Open the solution file in Visual Studio:
+RecipeApp.sln
+Usage
+To run the application, follow these steps:
+Build the project:
+
+In Visual Studio, go to Build > Build Solution.
+Run the application:
+
+Press F5 to start the application.
+Enter recipes:
+
+Follow the prompts to enter the name, ingredients, and steps for each recipe. For each ingredient, specify the quantity, unit of measurement, calories, and food group.
+View and manage recipes:
+
+The application will display a list of all recipes in alphabetical order by name. Choose a recipe to view its details.
+Calorie alert:
+
+The application will alert you if the total calories of a recipe exceed 300.
+Features
+Add an unlimited number of recipes.
+Enter and view ingredients, including their quantity, unit, calories, and food group.
+Calculate and display total calories for each recipe.
+Alert the user if total calories exceed 300.
+Display recipes in alphabetical order by name.
+Choose and view specific recipes.
+Non-functional Requirements
+Use internationally acceptable coding standards with comprehensive comments explaining variable names, methods, and the logic of programming code.
+Use classes to structure the code.
+Store recipes, ingredients, and steps in generic collections.
+Use a delegate to notify the user when a recipe exceeds 300 calories.
+Unit Testing
+To run unit tests:
+
+Navigate to the test project directory:
+cd RecipeApp.Tests
+Run the tests using Visual Studio Test Explorer:
+Open Test Explorer in Visual Studio.
+Run all tests to ensure the functionality works as expected.
+The unit tests include:
+
+Testing the total calorie calculation for a recipe.
+
+Go to the repository page and click the New Pull Request button.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+If you have any questions or suggestions, feel free to contact:
+
+Your Name:Asemahle Nonkwelo
+Email: mahlenonkwelo@gmail.com
+GitHub: AsemahleNonkwelo
+
+
+
