@@ -1,0 +1,49 @@
+Recipe App
+
+The Recipe App is a user-friendly application that allows users to manage their recipes seamlessly. This README file provides comprehensive information on running the app, its features, installation instructions, and more.
+
+Features
+
+Add Recipes: Easily add new recipes with details such as name, ingredients, and preparation steps.
+Edit Recipes: Modify existing recipes to update ingredients, steps, or other information.
+Delete Recipes: Remove recipes from your collection when they're no longer needed.
+View Recipes: View recipe details in a clear and organized format.
+Filter Recipes: Filter recipes based on ingredients, food groups, or calorie limits.
+Pie Chart Visualization: Visualize food group percentages in a menu using an interactive pie chart.
+Installation
+git clone https://github.com/AsemahleNonkwelo/Recipe-App/new/main 
+Open in Visual Studio: Open the project in Visual Studio by double-clicking the solution file (RecipeApp.sln).
+
+Restore Packages: Build the solution to restore NuGet packages automatically.
+
+Run the Application: Press F5 or click the "Start" button in Visual Studio to run the application.
+
+Usage
+
+Adding a Recipe:
+
+Click on the "Add Recipe" button to open the add recipe window.
+Enter the recipe name, ingredients (separated by commas), and preparation steps (also separated by commas).
+Click "Save" to add the recipe to your collection.
+Editing a Recipe:
+
+Select a recipe from the list and click "Edit Recipe" to modify its details.
+Update the information in the edit recipe window and click "Save" to apply the changes.
+Deleting a Recipe:
+
+Select a recipe from the list and click "Delete Recipe" to remove it from your collection.
+Viewing a Recipe:
+
+Select a recipe from the list and click "View Recipe" to see its details.
+Filtering Recipes:
+
+Click on the "Filter Recipes" button to open the filter window.
+Enter criteria such as ingredient, food group, or maximum calories to filter the recipe list.
+Click "Apply Filter" to see the filtered recipes.
+
+Credits
+
+Icons used in the application were sourced from Iconfinder.
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
